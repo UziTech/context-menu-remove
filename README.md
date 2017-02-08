@@ -49,7 +49,7 @@ The format is similar to [atom.contextMenu.add](https://atom.io/docs/api/v1.13.1
 
 The only properties that are used are `label` and `submenu`.
 
-If the item does not have a submenu then you can use the `label` property of just use a string.
+If the item does not have a submenu then you can use the `label` property or just use a string.
 ```coffeescript
 { label: "Undo" } === "Undo"
 ```
