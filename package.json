@@ -1,18 +1,18 @@
 {
-	"name": "context-menu-remove",
-	"main": "./lib/main",
-	"version": "0.0.0",
-	"description": "Remove some unwanted context menu items",
-	"keywords": [
+  "name": "context-menu-remove",
+  "main": "./lib/main",
+  "version": "0.1.0",
+  "description": "Remove some unwanted context menu items",
+  "keywords": [
     "context"
   ],
-	"repository": "https://github.com/UziTech/context-menu-remove",
-	"license": "MIT",
-	"engines": {
-		"atom": ">=1.13.0 <2.0.0"
-	},
-	"dependencies": {
-		"clear-cut": "^2.0.1",
-		"underscore-plus": "^1.6.6"
-	}
+  "repository": "https://github.com/UziTech/context-menu-remove",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.13.0 <2.0.0"
+  },
+  "dependencies": {
+    "clear-cut": "^2.0.1",
+    "underscore-plus": "^1.6.6"
+  }
 }
