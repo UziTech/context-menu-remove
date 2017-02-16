@@ -2,6 +2,8 @@ This package adds a few methods to [atom.contextMenu](https://atom.io/docs/api/l
 
 ## Usage
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/UziTech/context-menu-remove.svg)](https://greenkeeper.io/)
+
 There are two ways you can remove context menu items with this package:
 
 1. Use `atom.contextMenu.remove()` in your init script
