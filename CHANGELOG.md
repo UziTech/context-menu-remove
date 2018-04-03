@@ -2,7 +2,7 @@
 
 ## 0.2.1 - 2018-04-03
 
-- Fix no sortTemplate in v 1.25 [\#3](https://github.com/UziTech/context-menu-remove/issues/3)
+- Fix no sortTemplate in Atom v1.25 [\#3](https://github.com/UziTech/context-menu-remove/issues/3)
 
 ## 0.2.0 - 2018-03-31
 
