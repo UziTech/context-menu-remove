@@ -13,6 +13,6 @@
   },
   "dependencies": {
     "clear-cut": "^2.0.1",
-    "underscore-plus": "^1.6.6"
+    "underscore-plus": "^1.6.8"
   }
 }
